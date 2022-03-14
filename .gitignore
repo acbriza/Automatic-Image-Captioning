@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 dataset/
 glove/
+model_weights/
+Pickle/
 *.zip
 descriptions.txt
